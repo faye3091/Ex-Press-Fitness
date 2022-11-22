@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Leg Extension",
+    "body part": "leg",
+    "level": "novice",
+    "repetitions": "15-20",
+    "sets": "3"
+  },
+  {
+    "name": "Chest Fly",
+    "body part": "chest",
+    "level": "novice",
+    "repetitions": "15-20",
+    "sets": "3"
+  },
+  {
+    "name": "Lat pulldown",
+    "body part": "back",
+    "level": "novice",
+    "repetitions": "15-20",
+    "sets": "3"
+  },
+  {
+    "name": "Lateral Raises",
+    "body part": "shoulders",
+    "level": "novice",
+    "repetitions": "15-20",
+    "sets": "3"
+  },
+  {
+    "name": "Hammer Curl",
+    "body part": "biceps",
+    "level": "novice",
+    "repetitions": "15-20",
+    "sets": "3"
+  },
+  {
+    "name": "Pressdown",
+    "body part": "triceps",
+    "level": "novice",
+    "repetitions": "15-20",
+    "sets": "3"
+  },
+  {
+    "name": "crunches",
+    "body part": "abs",
+    "level": "novice",
+    "repetitions": "15-20",
+    "sets": "3"
+  }
+]
