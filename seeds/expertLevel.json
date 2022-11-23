@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Squats",
+    "body part": "Legs",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4"
+  },
+  {
+    "name": "Stiff-Leg Deadlift",
+    "body part": "Legs",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4"
+  },
+  {
+    "name": "Bench Press",
+    "body part": "Chest",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4"
+  },
+  {
+    "name": "Incline Bench Press",
+    "body part": "Chest",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4"
+  },
+  {
+    "name": "Bent Over Row",
+    "body part": "Back",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4"
+  },
+  {
+    "name": "T-Bar Row",
+    "body part": "Back",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4"
+  },
+  {
+    "name": "Upright Row",
+    "body part": "Shoulders",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4"
+  },
+  {
+    "name": "Overhead Barbbell Press",
+    "body part": "Shoulders",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4"
+  },
+  {
+    "name": "Zottman Curl",
+    "body part": "Biceps",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4"
+  },
+  {
+    "name": "Reverse Curl",
+    "body part": "Biceps",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4"
+  },
+  {
+    "name": "Skull Crushers",
+    "body part": "Triceps",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4"
+  },
+  {
+    "name": "Close-Grip Bench Press",
+    "body part": "Triceps",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4"
+  },
+  {
+    "name": "Hanging Leg Raise",
+    "body part": "Abs",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4"
+  },
+  {
+    "name": "Kettlebell Swing",
+    "body part": "Abs",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4"
+  }
+]

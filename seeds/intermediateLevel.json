@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Leg Press",
+    "body part": "Legs",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3"
+  },
+  {
+    "name": "Walking Lunges",
+    "body part": "Legs",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3"
+  },
+  {
+    "name": "Push-up",
+    "body part": "Chest",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3"
+  },
+  {
+    "name": "Dumbbell Bench Press",
+    "body part": "Chest",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3"
+  },
+  {
+    "name": "Dumbbell Row",
+    "body part": "Back",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3"
+  },
+  {
+    "name": "Pull-up",
+    "body part": "Back",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3"
+  },
+  {
+    "name": "Arnold Press",
+    "body part": "Shoulders",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3"
+  },
+  {
+    "name": "Front Raises",
+    "body part": "Shoulders",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "2"
+  },
+  {
+    "name": "Overhead Cable Curl",
+    "body part": "Biceps",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3"
+  },
+  {
+    "name": "Barbell Curl",
+    "body part": "Biceps",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3"
+  },
+  {
+    "name": "French Press",
+    "body part": "Triceps",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3"
+  },
+  {
+    "name": "Kickbacks",
+    "body part": "Triceps",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3"
+  },
+  {
+    "name": "Decline Sit-up",
+    "body part": "Abs",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3"
+  },
+  {
+    "name": "V Sit-up",
+    "body part": "Abs",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3"
+  }
+]
