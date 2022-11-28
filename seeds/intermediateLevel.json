@@ -4,97 +4,111 @@
     "body part": "Legs",
     "level": "Intermediate",
     "repetitions": "10-15",
-    "sets": "3"
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=s9-zeWzPUmA"
   },
   {
     "name": "Walking Lunges",
     "body part": "Legs",
     "level": "Intermediate",
     "repetitions": "10-15",
-    "sets": "3"
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=L8fvypPrzzs"
   },
   {
     "name": "Push-up",
     "body part": "Chest",
     "level": "Intermediate",
     "repetitions": "10-15",
-    "sets": "3"
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=IODxDxX7oi4"
   },
   {
     "name": "Dumbbell Bench Press",
     "body part": "Chest",
     "level": "Intermediate",
     "repetitions": "10-15",
-    "sets": "3"
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=VmB1G1K7v94"
   },
   {
     "name": "Dumbbell Row",
     "body part": "Back",
     "level": "Intermediate",
     "repetitions": "10-15",
-    "sets": "3"
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=roCP6wCXPqo"
   },
   {
     "name": "Pull-up",
     "body part": "Back",
     "level": "Intermediate",
     "repetitions": "10-15",
-    "sets": "3"
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=XB_7En-zf_M"
   },
   {
     "name": "Arnold Press",
     "body part": "Shoulders",
     "level": "Intermediate",
     "repetitions": "10-15",
-    "sets": "3"
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=6Z15_WdXmVw"
   },
   {
     "name": "Front Raises",
     "body part": "Shoulders",
     "level": "Intermediate",
     "repetitions": "10-15",
-    "sets": "2"
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA"
   },
   {
     "name": "Overhead Cable Curl",
     "body part": "Biceps",
     "level": "Intermediate",
     "repetitions": "10-15",
-    "sets": "3"
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=5_n3gVeGEqc"
   },
   {
     "name": "Barbell Curl",
     "body part": "Biceps",
     "level": "Intermediate",
     "repetitions": "10-15",
-    "sets": "3"
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=kwG2ipFRgfo"
   },
   {
     "name": "French Press",
     "body part": "Triceps",
     "level": "Intermediate",
     "repetitions": "10-15",
-    "sets": "3"
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=ItLKDvhO8RU"
   },
   {
     "name": "Kickbacks",
     "body part": "Triceps",
     "level": "Intermediate",
     "repetitions": "10-15",
-    "sets": "3"
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=ZO81bExngMI"
   },
   {
     "name": "Decline Sit-up",
     "body part": "Abs",
     "level": "Intermediate",
     "repetitions": "10-15",
-    "sets": "3"
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=QhGU5cmNZds"
   },
   {
     "name": "V Sit-up",
     "body part": "Abs",
     "level": "Intermediate",
     "repetitions": "10-15",
-    "sets": "3"
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=iP2fjvG0g3w"
   }
 ]
