@@ -4,97 +4,111 @@
     "body part": "Legs",
     "level": "Novice",
     "repetitions": "15-20",
-    "sets": "2"
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=YyvSfVjQeL0"
   },
   {
     "name": "Leg Curl",
     "body part": "Legs",
     "level": "Novice",
     "repetitions": "15-20",
-    "sets": "2"
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=1Tq3QdYUuHs"
   },
   {
     "name": "Chest Fly",
     "body part": "Chest",
     "level": "Novice",
     "repetitions": "15-20",
-    "sets": "2"
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=Z57CtFmRMxA"
   },
   {
     "name": "Machine Press",
     "body part": "Chest",
     "level": "Novice",
     "repetitions": "15-20",
-    "sets": "2"
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=xUm0BiZCWlQ"
   },
   {
     "name": "Lat Pulldown",
     "body part": "Back",
     "level": "Novice",
     "repetitions": "15-20",
-    "sets": "2"
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
   },
   {
     "name": "Machine Row",
     "body part": "Back",
     "level": "Novice",
     "repetitions": "15-20",
-    "sets": "2"
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=TeFo51Q_Nsc"
   },
   {
     "name": "Lateral Raises",
     "body part": "Shoulders",
     "level": "Novice",
     "repetitions": "15-20",
-    "sets": "2"
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo"
   },
   {
     "name": "Shoulder Press",
     "body part": "Shoulders",
     "level": "Novice",
     "repetitions": "15-20",
-    "sets": "2"
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=7ijGii2c02o"
   },
   {
     "name": "Hammer Curl",
     "body part": "Biceps",
     "level": "Novice",
     "repetitions": "15-20",
-    "sets": "2"
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=TwD-YGVP4Bk"
   },
   {
     "name": "Machine Curl",
     "body part": "Biceps",
     "level": "Novice",
     "repetitions": "15-20",
-    "sets": "2"
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=rZM88p-VZe8"
   },
   {
-    "name": "Pressdowns",
+    "name": "Pushdowns",
     "body part": "Triceps",
     "level": "Novice",
     "repetitions": "15-20",
-    "sets": "2"
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=2-LAMcpzODU"
   },
   {
     "name": "Seated Dips",
     "body part": "Triceps",
     "level": "Novice",
     "repetitions": "15-20",
-    "sets": "2"
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=0326dy_-CzM"
   },
   {
     "name": "Crunches",
     "body part": "Abs",
     "level": "Novice",
     "repetitions": "15-20",
-    "sets": "2"
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=MKmrqcoCZ-M"
   },
   {
     "name": "Leg Lifts",
     "body part": "Abs",
     "level": "Novice",
     "repetitions": "15-20",
-    "sets": "2"
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=l4kQd9eWclE"
   }
 ]
