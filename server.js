@@ -26,6 +26,7 @@ const sess = {
 app.use(session(sess));
 
 //Initialize handlebars
+
 //helpers
 
 app.engine("handlebars", hbs.engine);

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Jon Snow",
+    "email": "jsnow@gmail.com",
+    "password": "youDontKnowNothingJonSnow456"
+  },
+  {
+    "name": "Deanerys Targaryen",
+    "email": "deanerys@gmail.com",
+    "password": "iLoveJonSnow789"
+  },
+  {
+    "name": "Sansa Stark",
+    "email": "sstark@gmail.com",
+    "password": "iAmtheQueenoftheNorth125"
+  },
+  {
+    "name": "Tyrion Lannister",
+    "email": "tlannister@gmail.com",
+    "password": "iKilledMyOwnFather784"
+  },
+  {
+    "name": "Arya Stark",
+    "email": "astark@gmail.com",
+    "password": "iAmNoOne254"
+  }
+]
