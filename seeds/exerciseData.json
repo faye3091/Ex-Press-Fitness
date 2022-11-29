@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Squats",
+    "body_part": "Legs",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4",
+    "video": "https://www.youtube.com/watch?v=Dy28eq2PjcM"
+  },
+  {
+    "name": "Stiff-Leg Deadlift",
+    "body_part": "Legs",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4",
+    "video": "https://www.youtube.com/watch?v=1uDiW5--rAE"
+  },
+  {
+    "name": "Bench Press",
+    "body_part": "Chest",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4",
+    "video": "https://www.youtube.com/watch?v=gRVjAtPip0Y"
+  },
+  {
+    "name": "Incline Bench Press",
+    "body_part": "Chest",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4",
+    "video": "https://www.youtube.com/watch?v=DbFgADa2PL8"
+  },
+  {
+    "name": "Bent Over Row",
+    "body_part": "Back",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4",
+    "video": "https://www.youtube.com/watch?v=9efgcAjQe7E"
+  },
+  {
+    "name": "T-Bar Row",
+    "body_part": "Back",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4",
+    "video": "https://www.youtube.com/watch?v=j3Igk5nyZE4"
+  },
+  {
+    "name": "Upright Row",
+    "body_part": "Shoulders",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4",
+    "video": "https://www.youtube.com/watch?v=jaAV-rD45I0"
+  },
+  {
+    "name": "Overhead Barbbell Press",
+    "body_part": "Shoulders",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4",
+    "video": "https://www.youtube.com/watch?v=F3QY5vMz_6I"
+  },
+  {
+    "name": "Zottman Curl",
+    "body_part": "Biceps",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4",
+    "video": "https://www.youtube.com/watch?v=aAuOsw9D7Hc"
+  },
+  {
+    "name": "Reverse Curl",
+    "body_part": "Biceps",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4",
+    "video": "https://www.youtube.com/watch?v=nRgxYX2Ve9w"
+  },
+  {
+    "name": "Skull Crushers",
+    "body_part": "Triceps",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4",
+    "video": "https://www.youtube.com/watch?v=d_KZxkY_0cM"
+  },
+  {
+    "name": "Close-Grip Bench Press",
+    "body_part": "Triceps",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4",
+    "video": "https://www.youtube.com/watch?v=wxVRe9pmJdk"
+  },
+  {
+    "name": "Hanging Leg Raise",
+    "body_part": "Abs",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4",
+    "video": "https://www.youtube.com/watch?v=hdng3Nm1x_E"
+  },
+  {
+    "name": "Kettlebell Swing",
+    "body_part": "Abs",
+    "level": "Expert",
+    "repetitions": "8-12",
+    "sets": "4",
+    "video": "https://www.youtube.com/watch?v=YSxHifyI6s8"
+  },
+  {
+    "name": "Leg Press",
+    "body_part": "Legs",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=s9-zeWzPUmA"
+  },
+  {
+    "name": "Walking Lunges",
+    "body_part": "Legs",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=L8fvypPrzzs"
+  },
+  {
+    "name": "Push-up",
+    "body_part": "Chest",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=IODxDxX7oi4"
+  },
+  {
+    "name": "Dumbbell Bench Press",
+    "body_part": "Chest",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=VmB1G1K7v94"
+  },
+  {
+    "name": "Dumbbell Row",
+    "body_part": "Back",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=roCP6wCXPqo"
+  },
+  {
+    "name": "Pull-up",
+    "body_part": "Back",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=XB_7En-zf_M"
+  },
+  {
+    "name": "Arnold Press",
+    "body_part": "Shoulders",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=6Z15_WdXmVw"
+  },
+  {
+    "name": "Front Raises",
+    "body_part": "Shoulders",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA"
+  },
+  {
+    "name": "Overhead Cable Curl",
+    "body_part": "Biceps",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=5_n3gVeGEqc"
+  },
+  {
+    "name": "Barbell Curl",
+    "body_part": "Biceps",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=kwG2ipFRgfo"
+  },
+  {
+    "name": "French Press",
+    "body_part": "Triceps",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=ItLKDvhO8RU"
+  },
+  {
+    "name": "Kickbacks",
+    "body_part": "Triceps",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=ZO81bExngMI"
+  },
+  {
+    "name": "Decline Sit-up",
+    "body_part": "Abs",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=QhGU5cmNZds"
+  },
+  {
+    "name": "V Sit-up",
+    "body_part": "Abs",
+    "level": "Intermediate",
+    "repetitions": "10-15",
+    "sets": "3",
+    "video": "https://www.youtube.com/watch?v=iP2fjvG0g3w"
+  },
+  {
+    "name": "Leg Extension",
+    "body_part": "Legs",
+    "level": "Novice",
+    "repetitions": "15-20",
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=YyvSfVjQeL0"
+  },
+  {
+    "name": "Leg Curl",
+    "body_part": "Legs",
+    "level": "Novice",
+    "repetitions": "15-20",
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=1Tq3QdYUuHs"
+  },
+  {
+    "name": "Chest Fly",
+    "body_part": "Chest",
+    "level": "Novice",
+    "repetitions": "15-20",
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=Z57CtFmRMxA"
+  },
+  {
+    "name": "Machine Press",
+    "body_part": "Chest",
+    "level": "Novice",
+    "repetitions": "15-20",
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=xUm0BiZCWlQ"
+  },
+  {
+    "name": "Lat Pulldown",
+    "body_part": "Back",
+    "level": "Novice",
+    "repetitions": "15-20",
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "name": "Machine Row",
+    "body_part": "Back",
+    "level": "Novice",
+    "repetitions": "15-20",
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=TeFo51Q_Nsc"
+  },
+  {
+    "name": "Lateral Raises",
+    "body_part": "Shoulders",
+    "level": "Novice",
+    "repetitions": "15-20",
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo"
+  },
+  {
+    "name": "Shoulder Press",
+    "body_part": "Shoulders",
+    "level": "Novice",
+    "repetitions": "15-20",
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=7ijGii2c02o"
+  },
+  {
+    "name": "Hammer Curl",
+    "body_part": "Biceps",
+    "level": "Novice",
+    "repetitions": "15-20",
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=TwD-YGVP4Bk"
+  },
+  {
+    "name": "Machine Curl",
+    "body_part": "Biceps",
+    "level": "Novice",
+    "repetitions": "15-20",
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=rZM88p-VZe8"
+  },
+  {
+    "name": "Pushdowns",
+    "body_part": "Triceps",
+    "level": "Novice",
+    "repetitions": "15-20",
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=2-LAMcpzODU"
+  },
+  {
+    "name": "Seated Dips",
+    "body_part": "Triceps",
+    "level": "Novice",
+    "repetitions": "15-20",
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=0326dy_-CzM"
+  },
+  {
+    "name": "Crunches",
+    "body_part": "Abs",
+    "level": "Novice",
+    "repetitions": "15-20",
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=MKmrqcoCZ-M"
+  },
+  {
+    "name": "Leg Lifts",
+    "body_part": "Abs",
+    "level": "Novice",
+    "repetitions": "15-20",
+    "sets": "2",
+    "video": "https://www.youtube.com/watch?v=l4kQd9eWclE"
+  }
+]
