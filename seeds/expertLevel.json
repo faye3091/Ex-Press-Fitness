@@ -1,7 +1,7 @@
 [
   {
     "name": "Squats",
-    "body part": "Legs",
+    "body_part": "Legs",
     "level": "Expert",
     "repetitions": "8-12",
     "sets": "4",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Stiff-Leg Deadlift",
-    "body part": "Legs",
+    "body_part": "Legs",
     "level": "Expert",
     "repetitions": "8-12",
     "sets": "4",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Bench Press",
-    "body part": "Chest",
+    "body_part": "Chest",
     "level": "Expert",
     "repetitions": "8-12",
     "sets": "4",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Incline Bench Press",
-    "body part": "Chest",
+    "body_part": "Chest",
     "level": "Expert",
     "repetitions": "8-12",
     "sets": "4",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Bent Over Row",
-    "body part": "Back",
+    "body_part": "Back",
     "level": "Expert",
     "repetitions": "8-12",
     "sets": "4",
@@ -41,7 +41,7 @@
   },
   {
     "name": "T-Bar Row",
-    "body part": "Back",
+    "body_part": "Back",
     "level": "Expert",
     "repetitions": "8-12",
     "sets": "4",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Upright Row",
-    "body part": "Shoulders",
+    "body_part": "Shoulders",
     "level": "Expert",
     "repetitions": "8-12",
     "sets": "4",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Overhead Barbbell Press",
-    "body part": "Shoulders",
+    "body_part": "Shoulders",
     "level": "Expert",
     "repetitions": "8-12",
     "sets": "4",
@@ -65,7 +65,7 @@
   },
   {
     "name": "Zottman Curl",
-    "body part": "Biceps",
+    "body_part": "Biceps",
     "level": "Expert",
     "repetitions": "8-12",
     "sets": "4",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Reverse Curl",
-    "body part": "Biceps",
+    "body_part": "Biceps",
     "level": "Expert",
     "repetitions": "8-12",
     "sets": "4",
@@ -81,7 +81,7 @@
   },
   {
     "name": "Skull Crushers",
-    "body part": "Triceps",
+    "body_part": "Triceps",
     "level": "Expert",
     "repetitions": "8-12",
     "sets": "4",
@@ -89,7 +89,7 @@
   },
   {
     "name": "Close-Grip Bench Press",
-    "body part": "Triceps",
+    "body_part": "Triceps",
     "level": "Expert",
     "repetitions": "8-12",
     "sets": "4",
@@ -97,7 +97,7 @@
   },
   {
     "name": "Hanging Leg Raise",
-    "body part": "Abs",
+    "body_part": "Abs",
     "level": "Expert",
     "repetitions": "8-12",
     "sets": "4",
@@ -105,7 +105,7 @@
   },
   {
     "name": "Kettlebell Swing",
-    "body part": "Abs",
+    "body_part": "Abs",
     "level": "Expert",
     "repetitions": "8-12",
     "sets": "4",

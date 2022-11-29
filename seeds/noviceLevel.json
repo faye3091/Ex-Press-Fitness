@@ -1,7 +1,7 @@
 [
   {
     "name": "Leg Extension",
-    "body part": "Legs",
+    "body_part": "Legs",
     "level": "Novice",
     "repetitions": "15-20",
     "sets": "2",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Leg Curl",
-    "body part": "Legs",
+    "body_part": "Legs",
     "level": "Novice",
     "repetitions": "15-20",
     "sets": "2",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Chest Fly",
-    "body part": "Chest",
+    "body_part": "Chest",
     "level": "Novice",
     "repetitions": "15-20",
     "sets": "2",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Machine Press",
-    "body part": "Chest",
+    "body_part": "Chest",
     "level": "Novice",
     "repetitions": "15-20",
     "sets": "2",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Lat Pulldown",
-    "body part": "Back",
+    "body_part": "Back",
     "level": "Novice",
     "repetitions": "15-20",
     "sets": "2",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Machine Row",
-    "body part": "Back",
+    "body_part": "Back",
     "level": "Novice",
     "repetitions": "15-20",
     "sets": "2",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Lateral Raises",
-    "body part": "Shoulders",
+    "body_part": "Shoulders",
     "level": "Novice",
     "repetitions": "15-20",
     "sets": "2",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Shoulder Press",
-    "body part": "Shoulders",
+    "body_part": "Shoulders",
     "level": "Novice",
     "repetitions": "15-20",
     "sets": "2",
@@ -65,7 +65,7 @@
   },
   {
     "name": "Hammer Curl",
-    "body part": "Biceps",
+    "body_part": "Biceps",
     "level": "Novice",
     "repetitions": "15-20",
     "sets": "2",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Machine Curl",
-    "body part": "Biceps",
+    "body_part": "Biceps",
     "level": "Novice",
     "repetitions": "15-20",
     "sets": "2",
@@ -81,7 +81,7 @@
   },
   {
     "name": "Pushdowns",
-    "body part": "Triceps",
+    "body_part": "Triceps",
     "level": "Novice",
     "repetitions": "15-20",
     "sets": "2",
@@ -89,7 +89,7 @@
   },
   {
     "name": "Seated Dips",
-    "body part": "Triceps",
+    "body_part": "Triceps",
     "level": "Novice",
     "repetitions": "15-20",
     "sets": "2",
@@ -97,7 +97,7 @@
   },
   {
     "name": "Crunches",
-    "body part": "Abs",
+    "body_part": "Abs",
     "level": "Novice",
     "repetitions": "15-20",
     "sets": "2",
@@ -105,7 +105,7 @@
   },
   {
     "name": "Leg Lifts",
-    "body part": "Abs",
+    "body_part": "Abs",
     "level": "Novice",
     "repetitions": "15-20",
     "sets": "2",
