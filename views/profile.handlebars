@@ -9,31 +9,34 @@
     <h3>Choose a Muscle Group:</h3>
 
     <div class="form-group">
-        <button type="submit" class="btn btn-primary">Chest</button>
-        <button type="submit" class="btn btn-primary">Back</button>
-        <button type="submit" class="btn btn-primary">Shoulders</button>
-        <button type="submit" class="btn btn-primary">Legs</button>
-        <button type="submit" class="btn btn-primary">Biceps</button>
-        <button type="submit" class="btn btn-primary">Triceps</button>
-        <button type="submit" class="btn btn-primary">Abs</button>
+      <button type="submit" class="btn btn-primary">Chest</button>
+      <button type="submit" class="btn btn-primary">Back</button>
+      <button type="submit" class="btn btn-primary">Shoulders</button>
+      <button type="submit" class="btn btn-primary">Legs</button>
+      <button type="submit" class="btn btn-primary">Biceps</button>
+      <button type="submit" class="btn btn-primary">Triceps</button>
+      <button type="submit" class="btn btn-primary">Abs</button>
     </div>
   </div>
 
-  {{#if projects.length}}
-  <div class="col-md-6 project-list">
-    <h3>Current Projects:</h3>
+  {{#if favorites.length}}
+    <div class="col-md-6 project-list">
+      <h3>Current Projects:</h3>
 
-    {{#each projects as |project|}}
-    <div class="row mb-2">
-      <div class="col-md-8">
-        <h4><a href="/project/{{project.id}}">{{project.name}}</a></h4>
-      </div>
-      <div class="col-md-4">
-        <button class="btn btn-sm btn-danger" data-id="{{project.id}}">DELETE</button>
-      </div>
+      {{#each favorites as |project|}}
+        <div class="row mb-2">
+          <div class="col-md-8">
+            <h4><a href="/project/{{project.id}}">{{project.name}}</a></h4>
+          </div>
+          <div class="col-md-4">
+            <button
+              class="btn btn-sm btn-danger"
+              data-id="{{project.id}}"
+            >DELETE</button>
+          </div>
+        </div>
+      {{/each}}
     </div>
-    {{/each}}
-  </div>
   {{/if}}
 </div>
 
