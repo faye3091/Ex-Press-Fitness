@@ -17,16 +17,16 @@ Workout.init(
       type: DataTypes.STRING,
       allowNull: false,
     },
+    body_part: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    },
     video: {
       type: DataTypes.STRING,
       allowNull: false,
       validate: {
         isURL: true,
       },
-    },
-    body_part: {
-      type: DataTypes.STRING,
-      allowNull: false,
     },
     level: {
       type: DataTypes.INTEGER,
