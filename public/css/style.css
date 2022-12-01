@@ -1,50 +1,136 @@
 * {
-    box-sizing: border-box;
-  }
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  /* background-color: rgb(182, 208, 253); */
+  height: 100vh;
+  width: 100%;
+  background-image: url(/images/dumbbells.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+
+#logo {
+  background-color: white;
+}
 
 header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 90px;
-    margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.profile {
+  text-decoration: none;
+  color: rgba(150, 243, 204, 0.78);
+  font-weight: 300;
+  font-size: 22px;
+  text-shadow: 1px 1px black;
+}
+
+.login-link {
+  text-decoration: none;
+  color: rgba(150, 243, 204, 0.78);
+  font-weight: 300;
+  font-size: 22px;
+  text-shadow: 1px 1px black;
 }
 
 .login {
-    display: flex;
-    justify-content: flex-end;
-    padding-left: 50px;
-    padding-right: 50px;
-    margin-bottom: 70px;
-    
+  display: flex;
+  justify-content: flex-end;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-top: 15px;
+  margin-bottom: 70px;
 }
 
 #logout {
-    margin-left: 15px;
+  margin-left: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 main {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .body-parts {
-    display: flex;
-    flex-direction: column;
-    margin: 30px;
+  display: flex;
+  flex-direction: column;
+  margin: 30px;
 }
 
 .btn {
-    margin: 3px;
-    background-color: rgba(19, 240, 240, 0.78);
-    border-radius: 8px;
+  margin: 3px;
+  background-color: rgba(19, 240, 148, 0.78);
+  border-radius: 8px;
 }
 
 .btn:hover {
-    background-color: antiquewhite;
+  background-color: antiquewhite;
 }
 
 .selection {
-    margin-top: 50px;
+  margin-top: 50px;
+}
+
+.greeting {
+  color: rgb(110, 199, 255);
+  font-weight: 300;
+  font-size: 25px;
+  text-shadow: 2px 2px black;
+}
+
+.greeting h2 {
+  background-color: rgba(0, 0, 0, 0.646);
+  border-radius: 8px;
+  padding: 3px;
+}
+
+.select-btn {
+  width: 500;
+  height: 300px;
+  box-shadow: 5px 5px 20px grey;
+  border-radius: 8px;
+  padding: 25px;
+  background-color: whitesmoke;
+  margin-top: 60px;
+}
+
+.login-start {
+  width: 500;
+  height: 170px;
+  box-shadow: 5px 5px 20px grey;
+  border-radius: 8px;
+  padding: 25px;
+  background-color: whitesmoke;
+  margin: 20px;
+}
+
+.signup-start {
+  width: 500;
+  height: 170px;
+  box-shadow: 5px 5px 20px grey;
+  border-radius: 8px;
+  padding: 25px;
+  background-color: whitesmoke;
+  margin: 20px;
+}
+
+.login-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-primary {
+  padding: 5px;
 }
