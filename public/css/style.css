@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+  }
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90px;
+    margin-top: 20px;
+}
+
+.login {
+    display: flex;
+    justify-content: flex-end;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 70px;
+    
+}
+
+#logout {
+    margin-left: 15px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.body-parts {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.btn {
+    margin: 3px;
+    background-color: rgba(19, 240, 240, 0.78);
+    border-radius: 8px;
+}
+
+.btn:hover {
+    background-color: antiquewhite;
+}
+
+.selection {
+    margin-top: 50px;
+}

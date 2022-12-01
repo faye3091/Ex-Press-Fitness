@@ -15,20 +15,20 @@
       <!-- Conditionally render login or signup-->
       <div class="wrapper">
         <header class="display-flex justify-space-between align-center p-2">
-          <h1 class="title">
-            <a href="/">Ex-Press Fitness</a>
-          </h1>
+            <a href="/"><img src="/images/Ex-Press.jpg"></a>
         </header>
-        {{#if logged_in}}
-          <a href="/profile">profile</a>
+        <div class="login">
+          {{#if logged_in}}
+            <a href="/profile">profile</a>
 
-          <button class="no-button" id="logout">logout</button>
-        {{else}}
-          <a href="/login">login</a>
-        {{/if}}
+            <button class="no-button" id="logout">logout</button>
+          {{else}}
+            <a href="/login">login</a>
+          {{/if}}
+        </div>
         <main class="container container-fluid mt-5">
           {{{body}}}
-
+      
         </main>
         <footer>
 
