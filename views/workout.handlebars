@@ -1,0 +1,24 @@
+{{#each favorites as |project|}}
+  <div class="row mb-4 project">
+    <div class="col-md-5">
+      <h2>
+        <!-- Call helper function with triple brackets to render the emoji span as HTML -->
+        <a href="/workout/{{workout.id}}">{{workout.name}}</a>
+      </h2>
+      <p>
+        <!-- Pass needed_funding value to the helper function -->
+        <span class="dollar-amount">{{format_amount
+            workout.body_part
+          }}</span>
+      </p>
+      <p>Level: 
+        {{wokout.level}}</p>
+        <p>Repetitions: {{workout.repetitions}}</p>
+    </div>
+    <div class="col-md-7">
+      <p>Sets: 
+        {{workout.sets}}
+      </p>
+    </div>
+  </div>
+{{/each}}
