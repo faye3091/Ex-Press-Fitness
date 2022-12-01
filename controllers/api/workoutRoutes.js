@@ -2,7 +2,7 @@ const router = require("express").Router();
 const { Workout } = require("../../models");
 const withAuth = require("../../utils/auth");
 
-router.post("/", withAuth, async (req, res) => {
+router.get("/", withAuth, async (req, res) => {
   try {
     const newFavorite = await Workout.create({
       ...req.body,
