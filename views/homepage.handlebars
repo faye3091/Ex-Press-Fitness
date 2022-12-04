@@ -1,3 +1,15 @@
+<!-- Loop over each object in the projects array -->
+
+<label for="Exercises">Choose an exercise</label>
+
+<select id="exercises">
+	<option value="Chest">Chest</option>
+	<option value="Back">Back</option>
+	<option value="Abs">Abs</option>
+
+</select>
+
+
 <!-- Loop over each object in the workouts array -->
 {{#each workouts as |workout|}}
 	<div class="row mb-4 workout">
@@ -6,6 +18,10 @@
 				<!-- Call helper function with triple brackets to render the emoji span as HTML -->
 				<a href="/workout/{{workout.id}}">{{workout.name}}</a>
 			</h2>
+			<p>Body Part: {{workout.body_part}}</p>
+			<p>Level: {{workout.level}}</p>
+				<p>Sets: {{workout.sets}}</p>
+				<p>Repetitions: {{workout.repetitions}}</p>
 			<iframe
 				width="560"
 				height="315"
@@ -15,11 +31,9 @@
 				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 				allowfullscreen
 			></iframe>
-
-			<p>Created by
-				{{user.name}}
-				on
-				{{workout.level}}</p>
+				
+				
+				
 		</div>
 
 		<div class="col-md-7">
@@ -28,4 +42,6 @@
 			</p>
 		</div>
 	</div>
-{{/each}}
+	{{/each}}
+
+<script src="js/homepage.js" type="module"></script>
