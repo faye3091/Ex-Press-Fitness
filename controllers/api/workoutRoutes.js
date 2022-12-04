@@ -2,7 +2,23 @@ const router = require("express").Router();
 const { Workout } = require("../../models");
 const withAuth = require("../../utils/auth");
 
-router.get("/", withAuth, async (req, res) => {
+router.get("/workout", withAuth, async (req, res) => {
+  Workout.findAll({
+    attributes: [
+      'id',
+      'name',
+      'body_part',
+      'level',
+      'repetitions',
+      'sets',
+      'video'
+    ]
+  })
+  .then(dbPostData => res.json(dbPostData))
+    .catch(err => {
+        console.log(err);
+        res.status(500).json(err);
+    });
   try {
     const newFavorite = await Workout.create({
       ...req.body,
