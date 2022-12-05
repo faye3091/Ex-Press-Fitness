@@ -1,57 +1,33 @@
-const newFormHandler = async (event) => {
-  event.preventDefault();
 
-  const name = document.querySelector("#name").value.trim();
-  const body_part = document.querySelector("#body-part").value.trim();
-  const level = document.querySelector("#skill-level").value.trim();
-  const repetitions = document.querySelector("#repetitions").value.trim();
-  const sets = document.querySelector("#sets").value.trim();
-  const video = document.querySelector("#video").value.trim();
+const newList = document.createElement("ol");
 
-  if (name && body_part && level && repetitions && sets && video) {
-    const response = await fetch(`/api/projects`, {
-      method: "POST",
-      body: JSON.stringify({
-        name,
-        body_part,
-        level,
-        repetitions,
-        sets,
-        video,
-      }),
-      headers: {
-        "Content-Type": "application/json",
-      },
-    });
+document.querySelector('.container').append(newList)
 
-    if (response.ok) {
-      document.location.replace("/profile");
-    } else {
-      alert("Failed to add favorite!");
-    }
-  }
-};
 
-const delButtonHandler = async (event) => {
-  if (event.target.hasAttribute("data-id")) {
-    const id = event.target.getAttribute("data-id");
+document.querySelector('#exercises').addEventListener('change', function (e) {
+    console.log(e.target.value)
+    const requestOptions = {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ body_part: e.target.value })
+    };
 
-    const response = await fetch(`/api/workouts/${id}`, {
-      method: "DELETE",
-    });
+    fetch('/testPost', requestOptions)
+        .then(response => response.json())
+        .then((data) => {
+            console.log(data)
+            while (newList.hasChildNodes()) {
+                newList.removeChild(newList.firstChild);
+            }
+            for (let exercise of data) {
+                const exerciseLi = document.createElement("li");
+                exerciseLi.append(exercise.body_part)
+                exerciseLi.append(exercise.id)
+                exerciseLi.append(exercise.name)
+                exerciseLi.append(exercise.video)
+                newList.append(exerciseLi)
+            }
+        });
 
-    if (response.ok) {
-      document.location.replace("/profile");
-    } else {
-      alert("Failed to delete favorite");
-    }
-  }
-};
 
-document
-  .querySelector(".new-favorite-form")
-  .addEventListener("submit", newFormHandler);
-
-document
-  .querySelector(".workout-list")
-  .addEventListener("click", delButtonHandler);
+})
