@@ -11,7 +11,8 @@ router.get("/workout", withAuth, async (req, res) => {
       'level',
       'repetitions',
       'sets',
-      'video'
+      'video',
+      'gif'
     ]
   })
   .then(dbPostData => res.json(dbPostData))

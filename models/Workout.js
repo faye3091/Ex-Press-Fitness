@@ -40,6 +40,10 @@ Workout.init(
       type: DataTypes.INTEGER,
       allowNull: false,
     },
+    gif: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    },
     user_id: {
       type: DataTypes.INTEGER,
       references: {
