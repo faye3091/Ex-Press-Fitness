@@ -1,19 +1,19 @@
 <!-- Loop over each object in the projects array -->
 
-<label for="Exercises">Choose an exercise</label>
+{{!-- <label for="Exercises">Choose an exercise</label>
 
 <select id="exercises">
 	<option value="Chest">Chest</option>
 	<option value="Back">Back</option>
 	<option value="Abs">Abs</option>
 
-</select>
+</select> --}}
 
 
 <!-- Loop over each object in the workouts array -->
 {{#each workouts as |workout|}}
-	<div class="row mb-4 workout">
-		<div class="col-md-5">
+	<div class="exercise-card">
+		<div class="card">
 			<h2>
 				<!-- Call helper function with triple brackets to render the emoji span as HTML -->
 				<a href="/workout/{{workout.id}}">{{workout.name}}</a>
@@ -22,18 +22,8 @@
 			<p>Level: {{workout.level}}</p>
 				<p>Sets: {{workout.sets}}</p>
 				<p>Repetitions: {{workout.repetitions}}</p>
-			<iframe
-				width="560"
-				height="315"
-				src={{workout.video}}
-				title="YouTube video player"
-				frameborder="0"
-				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-				allowfullscreen
-			></iframe>
-				
-				
-				
+			<a href={{workout.video}}><img src={{workout.gif}} class="gif" alt="Exercise GIF" width="100%"></a>
+					
 		</div>
 
 		<div class="col-md-7">
