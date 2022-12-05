@@ -11,12 +11,14 @@
 
 
 <!-- Loop over each object in the workouts array -->
-{{#each workouts as |workout|}}
+<h1>Please Log in / Sign up to enjoy the workouts!</h1>
+
+<{{#each workouts as |workout|}}
 	<div class="exercise-card">
 		<div class="card">
 			<h2>
 				<!-- Call helper function with triple brackets to render the emoji span as HTML -->
-				<a href="/workout/{{workout.id}}">{{workout.name}}</a>
+				<a href="/workout/{{workout.name}}">{{workout.name}}</a>
 			</h2>
 			<p>Body Part: {{workout.body_part}}</p>
 			<p>Level: {{workout.level}}</p>

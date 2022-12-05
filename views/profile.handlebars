@@ -1,41 +1,33 @@
 <div class="row">
   <div class="greeting">
     <h2>Have a great workout, {{name}}!</h2>
+
+<br> 
+<h3>Showing all your favorite workouts!</h3>
   </div>
 </div>
 
-<div class="selection">
-  <div class="select-btn">
-    <h3>Choose a Muscle Group:</h3>
+<{{#each workouts as |workout|}}
+	<div class="exercise-card">
+		<div class="card">
+			<h2>
+				<!-- Call helper function with triple brackets to render the emoji span as HTML -->
+				<a href="/workout/{{workout.name}}">{{workout.name}}</a>
+			</h2>
+			<p>Body Part: {{workout.body_part}}</p>
+			<p>Level: {{workout.level}}</p>
+				<p>Sets: {{workout.sets}}</p>
+				<p>Repetitions: {{workout.repetitions}}</p>
+			<a href={{workout.video}}><img src={{workout.gif}} class="gif" alt="Exercise GIF" width="100%"></a>
+					
+		</div>
 
-    <div class="body-parts">
-      <button type="submit" class="btn">Chest</button>
-      <button type="submit" class="btn">Back</button>
-      <button type="submit" class="btn">Shoulders</button>
-      <button type="submit" class="btn">Legs</button>
-      <button type="submit" class="btn">Biceps</button>
-      <button type="submit" class="btn">Triceps</button>
-      <button type="submit" class="btn">Abs</button>
-    </div>
-  </div>
-<br>
-    <div class="col-md-6 workout-list">
-      <h3>Current Favorites:</h3>
+		<div class="col-md-7">
+			<p>
+				{{workout.description}}
+			</p>
+		</div>
+	</div>
+	{{/each}}
 
-      {{#each workouts as |workout|}}
-        <div class="row mb-2">
-          <div class="col-md-8">
-            <h4><a href="/workouts/{{workout.body_part}}">{{workout.name}}</a></h4>
-          </div>
-          <div class="col-md-4">
-            <button
-              class="btn remove-btn"
-              data-id="{{workout.body_part}}"
-            >Remove</button>
-          </div>
-        </div>
-      {{/each}}
-    </div>
-</div>
-
-<script src="./js/profile.js"></script>
+<script src="js/homepage.js" type="module"></script>
