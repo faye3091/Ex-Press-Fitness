@@ -18,15 +18,6 @@
     "gif": "/gifs/Stiff-Leg_Deadlift.gif"
   },
   {
-    "name": "Bench Press",
-    "body_part": "Chest",
-    "level": "Expert",
-    "repetitions": "8-12",
-    "sets": "4",
-    "video": "https://www.youtube.com/watch?v=gRVjAtPip0Y",
-    "gif": "/gifs/Bench_Press.gif"
-  },
-  {
     "name": "Incline Bench Press",
     "body_part": "Chest",
     "level": "Expert",
@@ -34,15 +25,6 @@
     "sets": "4",
     "video": "https://www.youtube.com/watch?v=DbFgADa2PL8",
     "gif": "/gifs/Incline_Bench_Press.gif"
-  },
-  {
-    "name": "Bent Over Row",
-    "body_part": "Back",
-    "level": "Expert",
-    "repetitions": "8-12",
-    "sets": "4",
-    "video": "https://www.youtube.com/watch?v=9efgcAjQe7E",
-    "gif": "/gifs/Bent_Over_Row.gif"
   },
   {
     "name": "T-Bar Row",
@@ -97,15 +79,6 @@
     "sets": "4",
     "video": "https://www.youtube.com/watch?v=d_KZxkY_0cM",
     "gif": "/gifs/Skull_Crushers.gif"
-  },
-  {
-    "name": "Close-Grip Bench Press",
-    "body_part": "Triceps",
-    "level": "Expert",
-    "repetitions": "8-12",
-    "sets": "4",
-    "video": "https://www.youtube.com/watch?v=wxVRe9pmJdk",
-    "gif": "/gifs/Close-Grip_Bench_Press.gif"
   },
   {
     "name": "Hanging Leg Raise",
@@ -180,15 +153,6 @@
     "gif": "/gifs/Pull-up.gif"
   },
   {
-    "name": "Arnold Press",
-    "body_part": "Shoulders",
-    "level": "Intermediate",
-    "repetitions": "10-15",
-    "sets": "3",
-    "video": "https://www.youtube.com/watch?v=6Z15_WdXmVw",
-    "gif": "/gifs/Arnold_Press.gif"
-  },
-  {
     "name": "Front Raises",
     "body_part": "Shoulders",
     "level": "Intermediate",
@@ -207,15 +171,6 @@
     "gif": "/gifs/Overhead_Cable_Curl.gif"
   },
   {
-    "name": "Barbell Curl",
-    "body_part": "Biceps",
-    "level": "Intermediate",
-    "repetitions": "10-15",
-    "sets": "3",
-    "video": "https://www.youtube.com/watch?v=kwG2ipFRgfo",
-    "gif": "/gifs/Barbell_Curl.gif"
-  },
-  {
     "name": "French Press",
     "body_part": "Triceps",
     "level": "Intermediate",
@@ -223,24 +178,6 @@
     "sets": "3",
     "video": "https://www.youtube.com/watch?v=ItLKDvhO8RU",
     "gif": "/gifs/French_Press.gif"
-  },
-  {
-    "name": "Kickbacks",
-    "body_part": "Triceps",
-    "level": "Intermediate",
-    "repetitions": "10-15",
-    "sets": "3",
-    "video": "https://www.youtube.com/watch?v=ZO81bExngMI",
-    "gif": "/gifs/Kickbacks.gif"
-  },
-  {
-    "name": "Decline Sit-up",
-    "body_part": "Abs",
-    "level": "Intermediate",
-    "repetitions": "10-15",
-    "sets": "3",
-    "video": "https://www.youtube.com/watch?v=QhGU5cmNZds",
-    "gif": "/gifs/Decline_Sit-up.gif"
   },
   {
     "name": "V Sit-up",
@@ -268,15 +205,6 @@
     "sets": "2",
     "video": "https://www.youtube.com/watch?v=1Tq3QdYUuHs",
     "gif": "/gifs/Leg_Curl.gif"
-  },
-  {
-    "name": "Chest Fly",
-    "body_part": "Chest",
-    "level": "Novice",
-    "repetitions": "15-20",
-    "sets": "2",
-    "video": "https://www.youtube.com/watch?v=Z57CtFmRMxA",
-    "gif": "/gifs/Chest_Fly.gif"
   },
   {
     "name": "Machine Press",
@@ -358,15 +286,6 @@
     "sets": "2",
     "video": "https://www.youtube.com/watch?v=0326dy_-CzM",
     "gif": "/gifs/Seated_Dips.gif"
-  },
-  {
-    "name": "Crunches",
-    "body_part": "Abs",
-    "level": "Novice",
-    "repetitions": "15-20",
-    "sets": "2",
-    "video": "https://www.youtube.com/watch?v=MKmrqcoCZ-M",
-    "gif": "/gifs/Crunches.gif"
   },
   {
     "name": "Leg Lifts",
