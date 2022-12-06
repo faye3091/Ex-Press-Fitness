@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "seed": "node seeds/seeds.js",
-    "heroku-postbuild": "node seeds/index.js"
+    "heroku-postbuild": "node seeds/seeds.js"
   },
   "repository": {
     "type": "git",
