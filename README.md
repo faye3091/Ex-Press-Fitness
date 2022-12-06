@@ -9,6 +9,7 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [Features](#features)
+  * [Links](#links)
   * [Screenshots](#screenshots)
   * [Contributing](#contributing)
   * [Tests](#tests)
@@ -28,6 +29,12 @@ saves users exercises
 sort exercises 
 create custom login with personal passcode.
 
+
+  ## Links
+
+  [Deployed Link](https://floating-beyond-34615.herokuapp.com/) <br />
+  [Github Repository](https://github.com/faye3091/Ex-Press-Fitness)
+
   ## Screenshots
   
   ### Homepage screenshot
@@ -38,6 +45,7 @@ create custom login with personal passcode.
 
   ### Profile screenshot
   ![Screenshot](./public//images/profile.jpg)
+
 
 
   ## Contributing 
