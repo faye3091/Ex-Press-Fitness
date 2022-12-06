@@ -9,6 +9,9 @@
     "seed": "node seeds/seeds.js",
     "heroku-postbuild": "node seeds/seeds.js"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/faye3091/Project2-Group1.git"
