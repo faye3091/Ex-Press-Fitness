@@ -234,15 +234,6 @@
     "gif": "/gifs/Machine_Row.gif"
   },
   {
-    "name": "Lateral Raises",
-    "body_part": "Shoulders",
-    "level": "Novice",
-    "repetitions": "15-20",
-    "sets": "2",
-    "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
-    "gif": "/gifs/Lateral_Raises.gif"
-  },
-  {
     "name": "Shoulder Press",
     "body_part": "Shoulders",
     "level": "Novice",
@@ -259,15 +250,6 @@
     "sets": "2",
     "video": "https://www.youtube.com/watch?v=TwD-YGVP4Bk",
     "gif": "/gifs/Hammer_Curl.gif"
-  },
-  {
-    "name": "Machine Curl",
-    "body_part": "Biceps",
-    "level": "Novice",
-    "repetitions": "15-20",
-    "sets": "2",
-    "video": "https://www.youtube.com/watch?v=rZM88p-VZe8",
-    "gif": "/gifs/Machine_Curl.gif"
   },
   {
     "name": "Pushdowns",
